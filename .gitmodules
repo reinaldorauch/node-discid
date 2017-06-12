@@ -1,0 +1,3 @@
+[submodule "libdiscid"]
+	path = libdiscid
+	url = git@github.com:metabrainz/libdiscid.git
