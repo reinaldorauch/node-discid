@@ -1,0 +1,13 @@
+{
+  "name": "discid",
+  "version": "1.0.0",
+  "description": "Binding for the libdiscid library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "node-gyp rebuild"
+  },
+  "author": "Reinaldo A. C. Rauch <reinaldorauch@gmail.com>",
+  "license": "ISC",
+  "gypfile": true
+}
